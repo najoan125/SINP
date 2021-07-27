@@ -1,0 +1,8 @@
+name: SINP
+version: 1.0
+main: hyfata.najoan.sinp.SINPPlugin
+
+commands:
+  sinp:
+    description: "SINP default command"
+    permission: sinp.use
